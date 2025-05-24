@@ -1,5 +1,5 @@
-<H3>NAME: Mukesh R </H3>
-<H3>REGISTER NO: 212223240100 </H3>
+<H3>NAME:MOULIDHAR YADAV </H3>
+<H3>REGISTER NO: 212223240042 </H3>
 
 ## <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
